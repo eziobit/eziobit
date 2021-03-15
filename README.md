@@ -2,7 +2,7 @@
 - 👀 I’m interested in Game Development
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on C++ projects
-- 🎇 Currently I working on [Tic_Tac_Toe](https://github.com/eziobit/tic-tac-toe-ui
+- 🎇 Currently I working on [Tic_Tac_Toe](https://github.com/eziobit/tic-tac-toe-ui).
 ## Contact 
 - 📫 mailto: khawarjee760@gmail.com 
 - 📫 Message: [FaceBook](https://m.me/khawar.3021).
