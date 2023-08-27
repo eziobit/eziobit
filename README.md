@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning React.js
 - 💞️ I’m looking to collaborate on web projects
-- 🎇 Currently I working on FYPs
+- 🎇 Currently I working on open-source projects
 ## Contact 
 - 📫 mailto: khawarjee760@gmail.com 
 - 📫 Message: [FaceBook](https://m.me/khawar.3021).
